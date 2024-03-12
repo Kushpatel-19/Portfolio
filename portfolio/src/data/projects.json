@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Spotify Clone ",
+    "imageSrc": "projects/spoty.png",
+    "description": "It's a lookalike of a famous Music Player Spotify by which we can hear any song.",
+    "skills": ["HTML","CSS","Tailwind"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Rock Paper Scissor",
+    "imageSrc": "projects/rock.png",
+    "description": " It's a game b/w a person & computer in which rock can break the scissor, scissor can cut the paper & paper can overshadow rock.",
+    "skills": ["HTML", "CSS", "Java script"],
+    "demo": "file:///D:/project1.0/rock%20paper%20secior/index.html",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Tic-Tac-Toe ",
+    "imageSrc": "projects/tictoe.png",
+    "description": " It is two-player game in which the players fill up rectangles in a table with either an X or an O ",
+    "skills": ["HTML", "CSS", "Java script"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
